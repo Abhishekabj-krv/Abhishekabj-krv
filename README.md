@@ -1,4 +1,4 @@
-# Hi there, I'm Abhisheka B J 👋 🚀
+# Hi there, I'm Abhisheka B J 
 
 I am a passionate **Software Engineer** and Graduated **Information Science & Engineering** student based in Karnataka, India. I specialize in building robust, user-centric web applications and integrating advanced artificial intelligence into real-world solutions. 
 
@@ -31,7 +31,7 @@ An assistive technology application built to empower visually impaired individua
 ### [🛒 Authencart](https://github.com/Abhishekabj-krv/AuthenCart)
 A specialized e-commerce aggregation marketplace engineered for the luxury goods segment (such as high-end watches). Built to tackle the counterfeit market, the platform filters, curates, and exclusively directs consumers to verified, authorized seller links.
 
-### [📍 ServiceHub]()
+### [📍 ServiceHub](https://github.com/Abhishekabj-krv/Servicehub)
 A highly responsive, hyperlocal services marketplace application connecting local consumers with verified service professionals across Bangalore and wider regions of Karnataka.
 
 ---
